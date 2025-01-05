@@ -28,7 +28,6 @@ node cli-todo.js list [status]
 ```
 
 ### Update task status
-The list command will print the `id`, `description`, and `status` of all tasks.
 ```bash
 node cli-todo.js mark-in-progress [id]
 node cli-todo.js mark-done [id]
