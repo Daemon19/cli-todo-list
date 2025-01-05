@@ -1,6 +1,6 @@
 # 📃 cli-todo-list
 
-cli-todo-list will handle your tasks. This project was build based on project idea on [roadmap.sh](git@github.com:Daemon19/cli-todo-list.git).
+cli-todo-list will handle your tasks. This project was build based on project idea on roadmap.sh: https://roadmap.sh/projects/task-tracker.
 
 ## ⚙️ Compiling the app
 1. Clone the project to your local directory. 
